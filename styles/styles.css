@@ -29,6 +29,9 @@ img {
     display:block;
     margin:0 auto;
 }
+img + p {
+    text-align: center;
+}
 
 video {
     margin-left:auto;
