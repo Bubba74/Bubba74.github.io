@@ -32,6 +32,9 @@ img {
 img + p {
     text-align: center;
 }
+video + p {
+    text-align: center;
+}
 
 video {
     margin-left:auto;
